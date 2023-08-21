@@ -1,2 +1,6 @@
 # SprintReviewandRetrospective
 A retrospective look into the review of sprint and agile approaches to software development
+In terms of sprint and agile approaches to software  development, one of the most important parts of this process is implementing user feedback. In this use case I took into consideration user stories to correct and adapt my code
+User stories are very valuable because they provide direct feedback from the user from testing. From this feedback the program can be improved of bugs or to be suggested for features to added
+In a non-professional environment I've been unknowingly using agile methods to create my own code. Acting as all roles at once. Understanding the need and creating expectations for the project first, beginning programming, utilizing online suggestions to make the program more efficient and modular (easy to modify), then testing it and looping back to programming and optimizing it
+To be a good team member isn't to be the one that gets the most work done or even the one who can complete any project quickly. In an agile approach communication is key, therefore a good team member is someone who can communicate effectively to lend their knowledge to the rest of the team to ipmrove overall skill
